@@ -1,9 +1,9 @@
 __pycache__
 degrees
 .ipynb_checkpoints
+notebooks/lecture6/classification/
 figs
 images
 *.html
-data
 *.pt
 .env
