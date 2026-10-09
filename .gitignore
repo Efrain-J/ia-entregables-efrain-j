@@ -1,2 +1,9 @@
 __pycache__
 degrees
+.ipynb_checkpoints
+figs
+images
+*.html
+data
+*.pt
+.env
